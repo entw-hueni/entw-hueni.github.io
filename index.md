@@ -10,3 +10,6 @@ Marty McFly is the youngest of three children of George McFly and Lorraine Baine
 * loyal to his family and friends
 * pride, which causes him to take unnecessary risks to show others that he is not a coward
 
+My favored quote from Marty:
+
+> Are you telling me that you built a time machine... out of a DeLorean?
